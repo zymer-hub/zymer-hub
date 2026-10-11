@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**zymer-hub/zymer-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Maks-Tech**, a full-stack developer and GameDev enthusiast.
 
-Here are some ideas to get you started:
+I love exploring the bleeding edge of tech and building whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a new technology or AI model drops, chances are I'm already testing it out. 
+
+My main web tech stack covers the entire frontend (HTML, CSS, JS, React) alongside Node.js. For GameDev, I work with the Godot engine and write Lua scripts for Garry's Mod and Roblox.
+
+Lately, I've been diving deep into LLMs and integrating MCP (Model Context Protocol) into my workflows. 
+
+I'm always working on new projects, from web apps and discord bots to smart game mechanics. 
+
+**Fun Facts:**
+
+* I closely follow emerging technologies and AI (AI is basically my bro 🤖)
+* I enjoy bridging the gap between web development and game design
+* I love working with databases and full-stack architecture
+* **Hobbies:** GameDev, testing out new LLM tools, and building cool things
+
+---
